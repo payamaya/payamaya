@@ -55,13 +55,10 @@
 
 <p align="center">
   <a href="https://github.com/payamaya/fransonssnickeri">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=payamaya&repo=fransonssnickeri&theme=radical" />
+    <img src="https://img.shields.io/badge/📦_View_Repository-2EA043?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://fransonssnickeri.se" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Website-🌐_fransonssnickeri.se-2EA043?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Website" />
+    <img src="https://img.shields.io/badge/🌐_Visit_Live_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
